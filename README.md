@@ -3,31 +3,31 @@
 Hello Everyone !
 
 Welcome to my `Computer Science eBooks` repository. Here, you will find `PDF` versions of books relevant to the below mentioned CS realms which hold prominent presence in today's tech industry🔻
-1. <b>Data Science</b>
-▶️ <b><i>Big Data Analytics</i></b>
-▶️ <b><i>Data Mining Techniques</i></b>
-▶️ <b><i>Database Management System (DBMS)</i></b>
-▶️ <b><i>Structured Query Language (SQL)</i></b>
-▶️ <b><i>Machine Learning</i></b>
-▶️ <b><i>Deep Learning</i></b>
-▶️ <b><i>Python (for Data Analysis)</i></b>
-▶️ <b><i>R (for Data Science)</i></b>
+1. <b>Data Science</b><br>
+▶️ <b><i>Big Data Analytics</i></b><br>
+▶️ <b><i>Data Mining Techniques</i></b><br>
+▶️ <b><i>Database Management System (DBMS)</i></b><br>
+▶️ <b><i>Structured Query Language (SQL)</i></b><br>
+▶️ <b><i>Machine Learning</i></b><br>
+▶️ <b><i>Deep Learning</i></b><br>
+▶️ <b><i>Python (for Data Analysis)</i></b><br>
+▶️ <b><i>R (for Data Science)</i></b><br>
 ▶️ <b>Soft Computing</b><br>
 
-2. <b>Data Structures and Algorithms</b>
-3. <b>Mathematics</b>
-▶️ <b><i>Differential Calculus</i></b>
-▶️ <b><i>Discrete Mathematics</i></b>
-▶️ <b><i>Linear Algebra</i></b>
-▶️ <b><i>Statistics  & Probability</i></b>
-4. <b>Programming Languages</b>
-▶️ <b><i>C Programming</i></b>
-▶️ <b><i>C++ Programming</i></b>
-▶️ <b><i>Python</i></b>
-▶️ <b><i>Java</i></b>
-▶️ <b><i>R Programming</i></b>
-5. <b>Operating Systems</b>
-6. <b>Version Control : Git and GitHub</b>
+2. <b>Data Structures and Algorithms</b><br>
+3. <b>Mathematics</b><br>
+▶️ <b><i>Differential Calculus</i></b><br>
+▶️ <b><i>Discrete Mathematics</i></b><br>
+▶️ <b><i>Linear Algebra</i></b><br>
+▶️ <b><i>Statistics  & Probability</i></b><br>
+4. <b>Programming Languages</b><br>
+▶️ <b><i>C Programming</i></b><br>
+▶️ <b><i>C++ Programming</i></b><br>
+▶️ <b><i>Python</i></b><br>
+▶️ <b><i>Java</i></b><br>
+▶️ <b><i>R Programming</i></b><br>
+5. <b>Operating Systems</b><br>
+6. <b>Version Control : Git and GitHub</b><br>
 7. <b>Coding Interview 🌟<b>
 
 <br>
