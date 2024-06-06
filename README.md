@@ -1,8 +1,8 @@
-# Computer Science Books
+# Computer Science eBooks
 
 Hello Everyone !
 
-Welcome to my `Computer Science Books` repository. Here, you will find `PDF` versions of books relevant to the below CS realms🔻
+Welcome to my `Computer Science eBooks` repository. Here, you will find `PDF` versions of books relevant to the below CS realms🔻
 1. <b>Data Science</b>
 2. <b>Data Structures and Algorithms</b>
 3. <b>Mathematics</b>
