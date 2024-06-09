@@ -2,7 +2,7 @@
 
 Hello Everyone !
 
-Welcome to my `Computer Science eBooks` repository. Here, you will find `PDF` version of books relevant to the below mentioned CS realms which hold prominent presence in today's tech industry🔻
+Welcome to my `Computer Science eBooks` repository. Here, you will find `PDF` version of books relevant to the below mentioned CS realms, which hold a prominent presence in today's tech industry🔻
 1. <b>Data Science</b><br>
 ▶️ <b><i>Big Data Analytics</i></b><br>
 ▶️ <b><i>Data Mining Techniques</i></b><br>
@@ -33,7 +33,7 @@ Welcome to my `Computer Science eBooks` repository. Here, you will find `PDF` ve
 
 <br>
  
- >NOTE : Some of the books may seem outdated because the latest versions might not have been available in the electronic format. But majority of times, the earlier and the current version carries very little to no difference - after all, the knowledge inside can be <b><i>"old, not obsolete !"</i></b>
+ >NOTE : Some of the books may seem outdated because the latest versions might not be available in the electronic format. However, in most cases, the earlier and the current version carries very little to no difference - after all, the knowledge inside can be <b><i>"old, not obsolete !"</i></b>
 
 I will try to upload more <i>relevant</i> and <i>up-to-date</i> resources to enhance this repo's usability.
 <br><br><br>
