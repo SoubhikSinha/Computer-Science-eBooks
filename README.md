@@ -10,6 +10,7 @@ Welcome to my `Computer Science eBooks` repository. Here, you will find `PDF` ve
 ▶️ <b><i>Structured Query Language (SQL)</i></b><br>
 ▶️ <b><i>Machine Learning</i></b><br>
 ▶️ <b><i>Deep Learning</i></b><br>
+▶️ <b><i>Reinforcement Learning</i></b><br>
 ▶️ <b><i>Python (for Data Analysis)</i></b><br>
 ▶️ <b><i>R (for Data Science)</i></b><br>
 ▶️ <b>Soft Computing</b><br>
